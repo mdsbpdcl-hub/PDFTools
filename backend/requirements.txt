@@ -1,0 +1,6 @@
+fastapi==0.162.3
+uvicorn[standard]==0.54.0
+python-multipart==0.0.33
+pdf2docx==0.5.13
+pyHanko==0.38.1
+ocrmypdf==17.14.1
